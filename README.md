@@ -1,3 +1,3 @@
 # VoiceCraft
 AI Virtual Assistant
-![Screenshot](screenshot.png)
+![Screenshot](v1.png)
